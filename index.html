@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="_build/styles.css">
+  <title>PLC Map</title>
+</head>
+<body>
+
+  <section class="map-section">
+    <div class="search-wrapper">
+      <input type="text"
+            id="search-input"
+            autocomplete="off"
+            spellcheck="false"
+            autocorrect="off"
+            placeholder="search for person's name or profession" />
+      <div id="hits"></div>
+    </div>
+    <div class="map-wrapper">
+      <div id="plc-map"></div>
+    </div>
+      <!-- Hit template -->
+  <script type="text/template" id="hits-template">
+    {{#hits}}
+    <div class="hit">
+      <h2 class="hit-name">{{{ _highlightResult.name.value }}}{{^ displayName }} - {{{ _highlightResult.name.value }}}{{/displayName}}</h2>
+      <p class="hit-profession">{{{ _highlightResult.profession.value }}}{{^ displayProfession }} - {{{ _highlightResult.profession.value }}}{{/displayProfession}}</p>
+    </div>
+    {{/hits}}
+  </script>
+  <!-- /Hit template -->
+
+
+  <!-- No-Results template -->
+  <script type="text/template" id="no-results-template">
+    <div id="no-results-message">
+      <p>We didn't find any people in this location, please try again.</p>
+    </div>
+  </script>
+  <!-- /No-Results template -->
+  </section>
+
+
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyArMEOZ0G30R3ZoDizW7hO8q0omJlv1dJA"
+  async defer></script>
+  <script src="_build/bundle.js"></script>
+</body>
+</html>

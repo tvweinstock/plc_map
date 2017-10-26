@@ -1,0 +1,2543 @@
+[
+  {
+    "name": "Famille d'Aboville",
+    "profession": "général d'artillerie français",
+    "objectID": 272,
+    "birth_day": "1773-03-20",
+    "death_day": "1820-08-15",
+    "_geoloc": {
+      "lat": 48.86072,
+      "lng": 2.394934
+    }
+  },
+  {
+    "name": "Tombeau d'Abélard et Héloïse",
+    "profession": "intellectuelle française du XIIe siècle",
+    "objectID": 205,
+    "birth_day": "1092-12-01",
+    "death_day": "1164-05-16",
+    "_geoloc": {
+      "lat": 48.8591875,
+      "lng": 2.3919009
+    }
+  },
+  {
+    "name": "Alain",
+    "profession": "philosophe français",
+    "objectID": 3,
+    "birth_day": "1868-03-03",
+    "death_day": "1951-06-02",
+    "_geoloc": {
+      "lat": 48.861016,
+      "lng": 2.399096
+    }
+  },
+  {
+    "name": "Frank Alamo",
+    "profession": "chanteur français",
+    "objectID": 63,
+    "birth_day": "1941-10-12",
+    "death_day": "2012-10-11",
+    "_geoloc": {
+      "lat": 48.861065,
+      "lng": 2.39491
+    }
+  },
+  {
+    "name": "Jean-Charles Alphand",
+    "profession": "ingénieur des ponts et chaussées français",
+    "objectID": 245,
+    "birth_day": "1817-10-26",
+    "death_day": "1891-12-06",
+    "_geoloc": {
+      "lat": 48.861694,
+      "lng": 2.390127
+    }
+  },
+  {
+    "name": "Antoine Balthazar Joseph d'André",
+    "profession": "homme politique",
+    "objectID": 278,
+    "birth_day": "1759-07-02",
+    "death_day": "1825-07-16",
+    "_geoloc": {
+      "lat": 48.858398,
+      "lng": 2.395365
+    }
+  },
+  {
+    "name": "Vincent Ansquer",
+    "profession": "ministre français",
+    "objectID": 318,
+    "birth_day": "1925-01-11",
+    "death_day": "1987-05-31",
+    "_geoloc": {
+      "lat": 48.8609848,
+      "lng": 2.3913417
+    }
+  },
+  {
+    "name": "Guillaume Apollinaire",
+    "profession": "poète français",
+    "objectID": 87,
+    "birth_day": "1880-08-25",
+    "death_day": "1918-11-09",
+    "_geoloc": {
+      "lat": 48.8626557,
+      "lng": 2.3947199
+    }
+  },
+  {
+    "name": "Karel Appel",
+    "profession": "peintre et sculpteur néerlandais, cofondateur du groupe CoBrA",
+    "objectID": 130,
+    "birth_day": "1921-04-25",
+    "death_day": "2006-05-03",
+    "_geoloc": {
+      "lat": 48.861172,
+      "lng": 2.393977
+    }
+  },
+  {
+    "name": "François Arago",
+    "profession": "mathématicien, physicien, astronome et politicien français",
+    "objectID": 64,
+    "birth_day": "1786-02-26",
+    "death_day": "1853-10-02",
+    "_geoloc": {
+      "lat": 48.860536,
+      "lng": 2.391114
+    }
+  },
+  {
+    "name": "François d'Astier de La Vigerie",
+    "profession": "militaire français, compagnon de la Libération",
+    "objectID": 231,
+    "birth_day": "1886-03-07",
+    "death_day": "1956-10-09",
+    "_geoloc": {
+      "lat": 48.860762,
+      "lng": 2.392166
+    }
+  },
+  {
+    "name": "Miguel Ángel Asturias",
+    "profession": "poète, écrivain et diplomate guatémaltèque",
+    "objectID": 256,
+    "birth_day": "1899-10-19",
+    "death_day": "1974-06-09",
+    "_geoloc": {
+      "lat": 48.8597856,
+      "lng": 2.3928042
+    }
+  },
+  {
+    "name": "Tony Aubin",
+    "profession": "compositeur français",
+    "objectID": 316,
+    "birth_day": "1907-12-08",
+    "death_day": "1981-09-21",
+    "_geoloc": {
+      "lat": 48.861099,
+      "lng": 2.397395
+    }
+  },
+  {
+    "name": "Honoré de Balzac",
+    "profession": "écrivain français",
+    "objectID": 96,
+    "birth_day": "1799-05-20",
+    "death_day": "1850-08-18",
+    "_geoloc": {
+      "lat": 48.8627718,
+      "lng": 2.3931199
+    }
+  },
+  {
+    "name": "Henri Barbusse",
+    "profession": "écrivain français",
+    "objectID": 92,
+    "birth_day": "1873-05-17",
+    "death_day": "1935-08-30",
+    "_geoloc": {
+      "lat": 48.860169,
+      "lng": 2.399848
+    }
+  },
+  {
+    "name": "Paul Barras",
+    "profession": "politicien français",
+    "objectID": 169,
+    "birth_day": "1755-06-30",
+    "death_day": "1829-01-29",
+    "_geoloc": {
+      "lat": 48.859139,
+      "lng": 2.395985
+    }
+  },
+  {
+    "name": "Alain Bashung",
+    "profession": "chanteur français",
+    "objectID": 207,
+    "birth_day": "1947-12-01",
+    "death_day": "2009-03-14",
+    "_geoloc": {
+      "lat": 48.860254,
+      "lng": 2.39341
+    }
+  },
+  {
+    "name": "Jean-Louis Baudelocque",
+    "profession": "médecin accoucheur et professeur d'obstétrique français",
+    "objectID": 119,
+    "birth_day": "1745-11-30",
+    "death_day": "1810-05-02",
+    "_geoloc": {
+      "lat": 48.861482,
+      "lng": 2.394698
+    }
+  },
+  {
+    "name": "Jean-Adolphe Beaucé",
+    "profession": "peintre français",
+    "objectID": 113,
+    "birth_day": "1818-08-02",
+    "death_day": "1875-07-13",
+    "_geoloc": {
+      "lat": 48.862894,
+      "lng": 2.39341
+    }
+  },
+  {
+    "name": "Félix de Beaujour",
+    "profession": "diplomate, homme politique et historien français.",
+    "objectID": 72,
+    "birth_day": "1765-12-28",
+    "death_day": "1836-07-01",
+    "_geoloc": {
+      "lat": 48.863162,
+      "lng": 2.393453
+    }
+  },
+  {
+    "name": "Vincenzo Bellini",
+    "profession": "compositeur italien",
+    "objectID": 199,
+    "birth_day": "1801-11-03",
+    "death_day": "1835-09-23",
+    "_geoloc": {
+      "lat": 48.860438,
+      "lng": 2.393024
+    }
+  },
+  {
+    "name": "Claude Bernard",
+    "profession": "médecin et physiologiste français",
+    "objectID": 34,
+    "birth_day": "1813-07-12",
+    "death_day": "1878-02-10",
+    "_geoloc": {
+      "lat": 48.860635,
+      "lng": 2.393582
+    }
+  },
+  {
+    "name": "Jacques-Henri Bernardin de Saint-Pierre",
+    "profession": "écrivain et botaniste français",
+    "objectID": 213,
+    "birth_day": "1737-01-19",
+    "death_day": "1814-01-21",
+    "_geoloc": {
+      "lat": 48.860423,
+      "lng": 2.392917
+    }
+  },
+  {
+    "name": "Sarah Bernhardt",
+    "profession": "comédienne française",
+    "objectID": 187,
+    "birth_day": "1844-10-22",
+    "death_day": "1923-03-26",
+    "_geoloc": {
+      "lat": 48.861327,
+      "lng": 2.395384
+    }
+  },
+  {
+    "name": "Julien Bessières",
+    "profession": "médecin français",
+    "objectID": 304,
+    "birth_day": "1777-07-30",
+    "death_day": "1840-07-31",
+    "_geoloc": {
+      "lat": 48.859528,
+      "lng": 2.397298
+    }
+  },
+  {
+    "name": "Fulgence Bienvenüe",
+    "profession": "père du métro parisien avec Edmond Huet",
+    "objectID": 69,
+    "birth_day": "1852-01-27",
+    "death_day": "1936-08-03",
+    "_geoloc": {
+      "lat": 48.864009,
+      "lng": 2.394676
+    }
+  },
+  {
+    "name": "Georges Bizet",
+    "profession": "compositeur français",
+    "objectID": 75,
+    "birth_day": "1838-10-25",
+    "death_day": "1875-06-03",
+    "_geoloc": {
+      "lat": 48.8623244,
+      "lng": 2.391787
+    }
+  },
+  {
+    "name": "Louis Blanc",
+    "profession": "journaliste, historien et homme politique français",
+    "objectID": 131,
+    "birth_day": "1811-10-29",
+    "death_day": "1882-12-06",
+    "_geoloc": {
+      "lat": 48.861779,
+      "lng": 2.391286
+    }
+  },
+  {
+    "name": "Auguste Blanqui",
+    "profession": "révolutionnaire républicain socialiste français",
+    "objectID": 19,
+    "birth_day": "1805-02-08",
+    "death_day": "1881-01-01",
+    "_geoloc": {
+      "lat": 48.861214,
+      "lng": 2.396071
+    }
+  },
+  {
+    "name": "François-Antoine de Boissy d'Anglas",
+    "profession": "politicien français",
+    "objectID": 232,
+    "birth_day": "1756-12-08",
+    "death_day": "1826-10-20",
+    "_geoloc": {
+      "lat": 48.85904,
+      "lng": 2.396092
+    }
+  },
+  {
+    "name": "Bonne Maman",
+    "profession": "spirite",
+    "objectID": 24,
+    "birth_day": "1821-10-08",
+    "death_day": "1908-05-15",
+    "_geoloc": {
+      "lat": 48.860621,
+      "lng": 2.398088
+    }
+  },
+  {
+    "name": "Pierre Bourdieu",
+    "profession": "sociologue français",
+    "objectID": 177,
+    "birth_day": "1930-08-01",
+    "death_day": "2002-01-23",
+    "_geoloc": {
+      "lat": 48.859703,
+      "lng": 2.395651
+    }
+  },
+  {
+    "name": "Édouard Branly",
+    "profession": "médecin français",
+    "objectID": 221,
+    "birth_day": "1844-10-23",
+    "death_day": "1940-03-24",
+    "_geoloc": {
+      "lat": 48.860536,
+      "lng": 2.392423
+    }
+  },
+  {
+    "name": "Pierre Brasseur",
+    "profession": "acteur français",
+    "objectID": 178,
+    "birth_day": "1905-12-22",
+    "death_day": "1972-08-14",
+    "_geoloc": {
+      "lat": 48.86072,
+      "lng": 2.389226
+    }
+  },
+  {
+    "name": "Jean Anthelme Brillat-Savarin",
+    "profession": "personnalité politique française",
+    "objectID": 243,
+    "birth_day": "1755-04-01",
+    "death_day": "1826-02-02",
+    "_geoloc": {
+      "lat": 48.859774,
+      "lng": 2.395513
+    }
+  },
+  {
+    "name": "Alexandre Brongniart",
+    "profession": "minéralogiste français",
+    "objectID": 5,
+    "birth_day": "1770-02-05",
+    "death_day": "1847-10-07",
+    "_geoloc": {
+      "lat": 48.860635,
+      "lng": 2.392809
+    }
+  },
+  {
+    "name": "Claude Brosset",
+    "profession": "acteur français",
+    "objectID": 35,
+    "birth_day": "1943-12-24",
+    "death_day": "2007-06-25",
+    "_geoloc": {
+      "lat": 48.858196,
+      "lng": 2.395227
+    }
+  },
+  {
+    "name": "Gilbert Bécaud",
+    "profession": "chanteur, compositeur, pianiste et acteur français",
+    "objectID": 85,
+    "birth_day": "1927-10-24",
+    "death_day": "2001-12-18",
+    "_geoloc": {
+      "lat": 48.861141,
+      "lng": 2.394935
+    }
+  },
+  {
+    "name": "Octave de Béhague",
+    "profession": "collectionneur français",
+    "objectID": 312,
+    "birth_day": "1826-11-26",
+    "death_day": "1879-03-01",
+    "_geoloc": {
+      "lat": 48.85891,
+      "lng": 2.396893
+    }
+  },
+  {
+    "name": "Marcel Cachin",
+    "profession": "politicien français",
+    "objectID": 147,
+    "birth_day": "1869-09-20",
+    "death_day": "1958-02-12",
+    "_geoloc": {
+      "lat": 48.8599157,
+      "lng": 2.3998601
+    }
+  },
+  {
+    "name": "Gustave Caillebotte",
+    "profession": "peintre français",
+    "objectID": 89,
+    "birth_day": "1848-08-19",
+    "death_day": "1894-02-21",
+    "_geoloc": {
+      "lat": 48.862414,
+      "lng": 2.392123
+    }
+  },
+  {
+    "name": "Jean-Jacques-Régis de Cambacérès",
+    "profession": "homme politique français",
+    "objectID": 118,
+    "birth_day": "1753-10-18",
+    "death_day": "1824-03-08",
+    "_geoloc": {
+      "lat": 48.859252,
+      "lng": 2.396457
+    }
+  },
+  {
+    "name": "Pierre-Augustin Caron de Beaumarchais",
+    "profession": "écrivain, musicien, homme d'affaires et poète français",
+    "objectID": 260,
+    "birth_day": "1732-01-24",
+    "death_day": "1799-05-18",
+    "_geoloc": {
+      "lat": 48.858842,
+      "lng": 2.396264
+    }
+  },
+  {
+    "name": "Pierre Cartellier",
+    "profession": "sculpteur français",
+    "objectID": 179,
+    "birth_day": "1757-12-02",
+    "death_day": "1831-06-12",
+    "_geoloc": {
+      "lat": 48.861553,
+      "lng": 2.392573
+    }
+  },
+  {
+    "name": "Claude Chabrol",
+    "profession": "réalisateur, producteur, acteur, scénariste français",
+    "objectID": 36,
+    "birth_day": "1930-06-24",
+    "death_day": "2010-09-12",
+    "_geoloc": {
+      "lat": 48.860558,
+      "lng": 2.392547
+    }
+  },
+  {
+    "name": "Antoine Marie Chamans de Lavalette",
+    "profession": "officier et haut fonctionnaire français",
+    "objectID": 279,
+    "birth_day": "1769-10-14",
+    "death_day": "1830-02-15",
+    "_geoloc": {
+      "lat": 48.8587457,
+      "lng": 2.3966952
+    }
+  },
+  {
+    "name": "Louis Pierre Quentin de Champcenetz",
+    "profession": "gouverneur des Tuileries",
+    "objectID": 252,
+    "birth_day": "1754-01-01",
+    "death_day": "1822-01-01",
+    "_geoloc": {
+      "lat": 48.861115,
+      "lng": 2.394354
+    }
+  },
+  {
+    "name": "Jean-François Champollion",
+    "profession": "égyptologue français",
+    "objectID": 246,
+    "birth_day": "1790-12-23",
+    "death_day": "1832-03-04",
+    "_geoloc": {
+      "lat": 48.8599858,
+      "lng": 2.3940879
+    }
+  },
+  {
+    "name": "Claude Chappe",
+    "profession": "inventeur qui démontra la communication pratique par sémaphore",
+    "objectID": 37,
+    "birth_day": "1763-12-25",
+    "death_day": "1805-01-23",
+    "_geoloc": {
+      "lat": 48.859068,
+      "lng": 2.395148
+    }
+  },
+  {
+    "name": "Jean-Antoine Chaptal",
+    "profession": "chimiste et homme politique français",
+    "objectID": 114,
+    "birth_day": "1756-06-05",
+    "death_day": "1832-07-29",
+    "_geoloc": {
+      "lat": 48.86192,
+      "lng": 2.39826
+    }
+  },
+  {
+    "name": "Luigi Cherubini",
+    "profession": "compositeur italien",
+    "objectID": 140,
+    "birth_day": "1760-09-14",
+    "death_day": "1842-03-15",
+    "_geoloc": {
+      "lat": 48.8601705,
+      "lng": 2.3927894
+    }
+  },
+  {
+    "name": "Frédéric Chopin",
+    "profession": "compositeur franco-polonais",
+    "objectID": 67,
+    "birth_day": "1810-03-01",
+    "death_day": "1849-10-17",
+    "_geoloc": {
+      "lat": 48.8601213,
+      "lng": 2.392808
+    }
+  },
+  {
+    "name": "Patrice Chéreau",
+    "profession": "metteur en scène de théâtre et d'opéra, réalisateur et scénariste de cinéma, et acteur français",
+    "objectID": 168,
+    "birth_day": "1944-11-02",
+    "death_day": "2013-10-07",
+    "_geoloc": {
+      "lat": 48.859112,
+      "lng": 2.394645
+    }
+  },
+  {
+    "name": "France Clidat",
+    "profession": "pianiste française",
+    "objectID": 61,
+    "birth_day": "1932-11-22",
+    "death_day": "2012-05-17",
+    "_geoloc": {
+      "lat": 48.859673,
+      "lng": 2.392798
+    }
+  },
+  {
+    "name": "Colette",
+    "profession": "romancière française",
+    "objectID": 39,
+    "birth_day": "1873-01-28",
+    "death_day": "1954-08-03",
+    "_geoloc": {
+      "lat": 48.860579,
+      "lng": 2.390578
+    }
+  },
+  {
+    "name": "Auguste Comte",
+    "profession": "philosophe français",
+    "objectID": 20,
+    "birth_day": "1798-01-19",
+    "death_day": "1857-09-05",
+    "_geoloc": {
+      "lat": 48.8597855,
+      "lng": 2.3942322
+    }
+  },
+  {
+    "name": "Benjamin Constant",
+    "profession": "romancier, homme politique, et intellectuel français d'origine suisse",
+    "objectID": 22,
+    "birth_day": "1767-10-25",
+    "death_day": "1830-12-08",
+    "_geoloc": {
+      "lat": 48.859096,
+      "lng": 2.39547
+    }
+  },
+  {
+    "name": "Bruno Coquatrix",
+    "profession": "directeur et propriétaire de la salle de music-hall de l'Olympia à Paris et homme politique français",
+    "objectID": 25,
+    "birth_day": "1910-08-05",
+    "death_day": "1979-04-01",
+    "_geoloc": {
+      "lat": 48.859393,
+      "lng": 2.398152
+    }
+  },
+  {
+    "name": "Jules Cornély",
+    "profession": "journaliste français",
+    "objectID": 303,
+    "birth_day": "1845-01-01",
+    "death_day": "1907-01-01",
+    "_geoloc": {
+      "lat": 48.861305,
+      "lng": 2.396898
+    }
+  },
+  {
+    "name": "Jean-Baptiste Camille Corot",
+    "profession": "artiste français",
+    "objectID": 115,
+    "birth_day": "1796-07-16",
+    "death_day": "1875-02-22",
+    "_geoloc": {
+      "lat": 48.860903,
+      "lng": 2.394612
+    }
+  },
+  {
+    "name": "Frédéric Cournet",
+    "profession": "personnalité de la Commune de Paris",
+    "objectID": 68,
+    "birth_day": "1837-12-25",
+    "death_day": "1885-05-23",
+    "_geoloc": {
+      "lat": 48.860395,
+      "lng": 2.396886
+    }
+  },
+  {
+    "name": "Georges Courteline",
+    "profession": "dramaturge français",
+    "objectID": 76,
+    "birth_day": "1858-06-25",
+    "death_day": "1929-06-25",
+    "_geoloc": {
+      "lat": 48.862329,
+      "lng": 2.397316
+    }
+  },
+  {
+    "name": "Thomas Couture",
+    "profession": "peintre français",
+    "objectID": 190,
+    "birth_day": "1815-12-21",
+    "death_day": "1879-03-30",
+    "_geoloc": {
+      "lat": 48.8607223,
+      "lng": 2.3916025
+    }
+  },
+  {
+    "name": "Charles Crozatier",
+    "profession": "bronzier d'art, fondeur et mécène français",
+    "objectID": 29,
+    "birth_day": "1795-02-18",
+    "death_day": "1855-02-08",
+    "_geoloc": {
+      "lat": 48.862357,
+      "lng": 2.39341
+    }
+  },
+  {
+    "name": "Georges Cuvier",
+    "profession": "scientifique et écrivain français",
+    "objectID": 77,
+    "birth_day": "1769-08-23",
+    "death_day": "1832-05-13",
+    "_geoloc": {
+      "lat": 48.8599553,
+      "lng": 2.3920732
+    }
+  },
+  {
+    "name": "Jean Melchior Dabadie de Bernet",
+    "profession": "officier du génie militaire et parlementaire",
+    "objectID": 301,
+    "birth_day": "1748-01-06",
+    "death_day": "1820-03-08",
+    "_geoloc": {
+      "lat": 48.859051,
+      "lng": 2.397138
+    }
+  },
+  {
+    "name": "Pierre Dac",
+    "profession": "humoriste et comédien français",
+    "objectID": 180,
+    "birth_day": "1893-08-15",
+    "death_day": "1975-02-09",
+    "_geoloc": {
+      "lat": 48.862767,
+      "lng": 2.396243
+    }
+  },
+  {
+    "name": "Édouard Daladier",
+    "profession": "politicien français",
+    "objectID": 222,
+    "birth_day": "1884-06-18",
+    "death_day": "1970-10-10",
+    "_geoloc": {
+      "lat": 48.863501,
+      "lng": 2.391264
+    }
+  },
+  {
+    "name": "Alphonse Daudet",
+    "profession": "écrivain et auteur dramatique français",
+    "objectID": 9,
+    "birth_day": "1840-05-13",
+    "death_day": "1897-12-16",
+    "_geoloc": {
+      "lat": 48.860198,
+      "lng": 2.395277
+    }
+  },
+  {
+    "name": "Sophie Daumier",
+    "profession": "actrice française",
+    "objectID": 189,
+    "birth_day": "1934-11-24",
+    "death_day": "2004-01-01",
+    "_geoloc": {
+      "lat": 48.8611655,
+      "lng": 2.3949235
+    }
+  },
+  {
+    "name": "Honoré Daumier",
+    "profession": "graveur, caricaturiste, peintre et sculpteur français",
+    "objectID": 95,
+    "birth_day": "1808-02-26",
+    "death_day": "1879-02-10",
+    "_geoloc": {
+      "lat": 48.860875,
+      "lng": 2.394698
+    }
+  },
+  {
+    "name": "Jacques-Louis David",
+    "profession": "peintre français",
+    "objectID": 240,
+    "birth_day": "1748-08-30",
+    "death_day": "1825-12-29",
+    "_geoloc": {
+      "lat": 48.861355,
+      "lng": 2.392359
+    }
+  },
+  {
+    "name": "Louis Nicolas Davout",
+    "profession": "général français",
+    "objectID": 254,
+    "birth_day": "1770-05-10",
+    "death_day": "1823-06-01",
+    "_geoloc": {
+      "lat": 48.8589314,
+      "lng": 2.3964384
+    }
+  },
+  {
+    "name": "Charles Degeorge",
+    "profession": "sculpteur et graveur-médailleur français",
+    "objectID": 285,
+    "birth_day": "1837-03-31",
+    "death_day": "1888-11-02",
+    "_geoloc": {
+      "lat": 48.861126,
+      "lng": 2.39632
+    }
+  },
+  {
+    "name": "Georges Deherme",
+    "profession": "initiateur des Universités populaires",
+    "objectID": 298,
+    "birth_day": "1870-01-01",
+    "death_day": "1937-01-25",
+    "_geoloc": {
+      "lat": 48.8597415,
+      "lng": 2.3943819
+    }
+  },
+  {
+    "name": "Cino Del Duca",
+    "profession": "éditeur de presse écrite, producteur de films et philanthrope",
+    "objectID": 33,
+    "birth_day": "1899-07-25",
+    "death_day": "1967-05-24",
+    "_geoloc": {
+      "lat": 48.861525,
+      "lng": 2.392509
+    }
+  },
+  {
+    "name": "Eugène Delacroix",
+    "profession": "peintre français",
+    "objectID": 212,
+    "birth_day": "1798-04-26",
+    "death_day": "1863-08-13",
+    "_geoloc": {
+      "lat": 48.862787,
+      "lng": 2.3936382
+    }
+  },
+  {
+    "name": "Pierre Desproges",
+    "profession": "humoriste français",
+    "objectID": 181,
+    "birth_day": "1939-05-09",
+    "death_day": "1988-04-18",
+    "_geoloc": {
+      "lat": 48.860056,
+      "lng": 2.392809
+    }
+  },
+  {
+    "name": "Juliette Dodu",
+    "profession": "espionne française, héroïne de la guerre de 1870",
+    "objectID": 129,
+    "birth_day": "1848-06-15",
+    "death_day": "1909-10-28",
+    "_geoloc": {
+      "lat": 48.858899,
+      "lng": 2.396307
+    }
+  },
+  {
+    "name": "Lucas Dolega",
+    "profession": "photoreporter français",
+    "objectID": 139,
+    "birth_day": "1978-08-19",
+    "death_day": "2011-01-17",
+    "_geoloc": {
+      "lat": 48.861404,
+      "lng": 2.395243
+    }
+  },
+  {
+    "name": "Jacques Duclos",
+    "profession": "politicien français",
+    "objectID": 102,
+    "birth_day": "1896-10-02",
+    "death_day": "1975-04-25",
+    "_geoloc": {
+      "lat": 48.859887,
+      "lng": 2.399826
+    }
+  },
+  {
+    "name": "Isadora Duncan",
+    "profession": "danseuse américaine",
+    "objectID": 99,
+    "birth_day": "1877-05-27",
+    "death_day": "1927-09-14",
+    "_geoloc": {
+      "lat": 48.8624253,
+      "lng": 2.3954178
+    }
+  },
+  {
+    "name": "Guillaume Dupuytren",
+    "profession": "anatomiste et chirurgien militaire français",
+    "objectID": 88,
+    "birth_day": "1777-10-06",
+    "death_day": "1835-02-08",
+    "_geoloc": {
+      "lat": 48.858885,
+      "lng": 2.396801
+    }
+  },
+  {
+    "name": "Georges Enesco",
+    "profession": "compositeur roumain",
+    "objectID": 78,
+    "birth_day": "1881-08-19",
+    "death_day": "1955-05-04",
+    "_geoloc": {
+      "lat": 48.862202,
+      "lng": 2.391822
+    }
+  },
+  {
+    "name": "Max Ernst",
+    "profession": "peintre et sculpteur allemand",
+    "objectID": 156,
+    "birth_day": "1891-04-02",
+    "death_day": "1976-04-01",
+    "_geoloc": {
+      "lat": 48.8622181,
+      "lng": 2.3963152
+    }
+  },
+  {
+    "name": "Ange Marie d'Eymar",
+    "profession": "politicien français",
+    "objectID": 276,
+    "birth_day": "1747-09-08",
+    "death_day": "1803-01-11",
+    "_geoloc": {
+      "lat": 48.859673,
+      "lng": 2.394465
+    }
+  },
+  {
+    "name": "Colonel Fabien",
+    "profession": "militant communiste et résistant français",
+    "objectID": 215,
+    "birth_day": "1919-01-21",
+    "death_day": "1944-12-27",
+    "_geoloc": {
+      "lat": 48.859703,
+      "lng": 2.399611
+    }
+  },
+  {
+    "name": "Alexandre Falguière",
+    "profession": "peintre et sculpteur français",
+    "objectID": 6,
+    "birth_day": "1831-09-07",
+    "death_day": "1900-04-19",
+    "_geoloc": {
+      "lat": 48.860875,
+      "lng": 2.392187
+    }
+  },
+  {
+    "name": "Félix Faure",
+    "profession": "politicien français",
+    "objectID": 70,
+    "birth_day": "1841-01-30",
+    "death_day": "1899-02-16",
+    "_geoloc": {
+      "lat": 48.860734,
+      "lng": 2.391651
+    }
+  },
+  {
+    "name": "Christian Fechner",
+    "profession": "producteur, scénariste et réalisateur français",
+    "objectID": 287,
+    "birth_day": "1944-07-26",
+    "death_day": "2008-11-25",
+    "_geoloc": {
+      "lat": 48.8617058,
+      "lng": 2.3884516
+    }
+  },
+  {
+    "name": "Jean-Pierre-Louis de Fontanes",
+    "profession": "politicien français",
+    "objectID": 248,
+    "birth_day": "1757-03-06",
+    "death_day": "1821-03-17",
+    "_geoloc": {
+      "lat": 48.858758,
+      "lng": 2.3962
+    }
+  },
+  {
+    "name": "Joseph Fourier",
+    "profession": "mathématicien français",
+    "objectID": 249,
+    "birth_day": "1768-03-21",
+    "death_day": "1830-05-16",
+    "_geoloc": {
+      "lat": 48.8600462,
+      "lng": 2.3938832
+    }
+  },
+  {
+    "name": "Maximilien Sébastien Foy",
+    "profession": "général du Premier Empire et un homme politique français",
+    "objectID": 158,
+    "birth_day": "1775-02-03",
+    "death_day": "1825-11-28",
+    "_geoloc": {
+      "lat": 48.859096,
+      "lng": 2.395577
+    }
+  },
+  {
+    "name": "Augustin Fresnel",
+    "profession": "physicien français fondateur de l’optique moderne",
+    "objectID": 21,
+    "birth_day": "1788-05-10",
+    "death_day": "1827-07-14",
+    "_geoloc": {
+      "lat": 48.8597319,
+      "lng": 2.3936651
+    }
+  },
+  {
+    "name": "Célestine Galli-Marié",
+    "profession": "mezzo-soprano française",
+    "objectID": 290,
+    "birth_day": "1840-11-01",
+    "death_day": "1905-09-22",
+    "_geoloc": {
+      "lat": 48.8615073,
+      "lng": 2.3918887
+    }
+  },
+  {
+    "name": "Louis-Antoine Garnier-Pagès",
+    "profession": "politicien français",
+    "objectID": 138,
+    "birth_day": "1803-02-16",
+    "death_day": "1878-10-31",
+    "_geoloc": {
+      "lat": 48.859463,
+      "lng": 2.395062
+    }
+  },
+  {
+    "name": "Martin Michel Charles Gaudin",
+    "profession": "politicien français",
+    "objectID": 152,
+    "birth_day": "1756-01-16",
+    "death_day": "1841-11-05",
+    "_geoloc": {
+      "lat": 48.86048,
+      "lng": 2.394376
+    }
+  },
+  {
+    "name": "Louis Joseph Gay-Lussac",
+    "profession": "chimiste et physicien français connu pour ses études sur les propriétés des gaz",
+    "objectID": 251,
+    "birth_day": "1778-12-06",
+    "death_day": "1850-05-09",
+    "_geoloc": {
+      "lat": 48.860649,
+      "lng": 2.394655
+    }
+  },
+  {
+    "name": "Étienne Geoffroy Saint-Hilaire",
+    "profession": "naturaliste français",
+    "objectID": 224,
+    "birth_day": "1772-04-15",
+    "death_day": "1844-06-19",
+    "_geoloc": {
+      "lat": 48.85952,
+      "lng": 2.394998
+    }
+  },
+  {
+    "name": "André Gill",
+    "profession": "caricaturiste, artiste peintre et chansonnier français",
+    "objectID": 12,
+    "birth_day": "1840-10-17",
+    "death_day": "1885-05-01",
+    "_geoloc": {
+      "lat": 48.860282,
+      "lng": 2.396994
+    }
+  },
+  {
+    "name": "Annie Girardot",
+    "profession": "actrice française",
+    "objectID": 15,
+    "birth_day": "1931-10-25",
+    "death_day": "2011-02-28",
+    "_geoloc": {
+      "lat": 48.862089,
+      "lng": 2.39356
+    }
+  },
+  {
+    "name": "Jacques Nicolas Gobert",
+    "profession": "général de division",
+    "objectID": 104,
+    "birth_day": "1760-05-22",
+    "death_day": "1808-07-17",
+    "_geoloc": {
+      "lat": 48.8588,
+      "lng": 2.39635
+    }
+  },
+  {
+    "name": "Piero Gobetti",
+    "profession": "journaliste et intellectuel libéral italien",
+    "objectID": 175,
+    "birth_day": "1901-06-19",
+    "death_day": "1926-02-15",
+    "_geoloc": {
+      "lat": 48.860536,
+      "lng": 2.398624
+    }
+  },
+  {
+    "name": "Laurent de Gouvion-Saint-Cyr",
+    "profession": "général français",
+    "objectID": 307,
+    "birth_day": "1764-04-13",
+    "death_day": "1830-03-17",
+    "_geoloc": {
+      "lat": 48.858555,
+      "lng": 2.39619
+    }
+  },
+  {
+    "name": "Zénobe Gramme",
+    "profession": "électricien belge, inventeur du premier générateur électrique appelé dynamo Gramme",
+    "objectID": 270,
+    "birth_day": "1826-04-04",
+    "death_day": "1901-01-20",
+    "_geoloc": {
+      "lat": 48.860833,
+      "lng": 2.397895
+    }
+  },
+  {
+    "name": "Stéphane Grappelli",
+    "profession": "violoniste, pianiste, et jazzman français",
+    "objectID": 217,
+    "birth_day": "1908-01-26",
+    "death_day": "1997-12-01",
+    "_geoloc": {
+      "lat": 48.862174,
+      "lng": 2.395663
+    }
+  },
+  {
+    "name": "Jean-Henry-Louis Greffulhe",
+    "profession": "banquier et homme politique français",
+    "objectID": 247,
+    "birth_day": "1774-05-21",
+    "death_day": "1820-02-23",
+    "_geoloc": {
+      "lat": 48.860536,
+      "lng": 2.395406
+    }
+  },
+  {
+    "name": "Emmanuel de Grouchy",
+    "profession": "général français",
+    "objectID": 293,
+    "birth_day": "1766-10-23",
+    "death_day": "1847-05-29",
+    "_geoloc": {
+      "lat": 48.8611069,
+      "lng": 2.3916616
+    }
+  },
+  {
+    "name": "Jules Guesde",
+    "profession": "personnalité politique française",
+    "objectID": 124,
+    "birth_day": "1845-11-11",
+    "death_day": "1922-07-28",
+    "_geoloc": {
+      "lat": 48.862541,
+      "lng": 2.395384
+    }
+  },
+  {
+    "name": "Théodore Géricault",
+    "profession": "peintre français",
+    "objectID": 265,
+    "birth_day": "1791-09-26",
+    "death_day": "1824-01-26",
+    "_geoloc": {
+      "lat": 48.86096,
+      "lng": 2.392831
+    }
+  },
+  {
+    "name": "Samuel Hahnemann",
+    "profession": "médecin allemand",
+    "objectID": 216,
+    "birth_day": "1755-04-10",
+    "death_day": "1843-07-02",
+    "_geoloc": {
+      "lat": 48.860536,
+      "lng": 2.39429
+    }
+  },
+  {
+    "name": "Georges Eugène Haussmann",
+    "profession": "préfet de la Seine qui a dirigé les transformations de Paris sous le Second Empire",
+    "objectID": 235,
+    "birth_day": "1809-03-27",
+    "death_day": "1891-01-11",
+    "_geoloc": {
+      "lat": 48.860748,
+      "lng": 2.391179
+    }
+  },
+  {
+    "name": "Sadegh Hedayat",
+    "profession": "écrivain et traducteur iranien",
+    "objectID": 263,
+    "birth_day": "1903-02-17",
+    "death_day": "1951-04-09",
+    "_geoloc": {
+      "lat": 48.863134,
+      "lng": 2.395191
+    }
+  },
+  {
+    "name": "Téo Hernandez",
+    "profession": "cinéaste",
+    "objectID": 194,
+    "birth_day": "1939-12-23",
+    "death_day": "1992-01-01",
+    "_geoloc": {
+      "lat": 48.861059,
+      "lng": 2.395363
+    }
+  },
+  {
+    "name": "Louis Hersent",
+    "profession": "peintre français",
+    "objectID": 308,
+    "birth_day": "1777-03-10",
+    "death_day": "1860-10-02",
+    "_geoloc": {
+      "lat": 48.858574,
+      "lng": 2.39484
+    }
+  },
+  {
+    "name": "Ignace Hoff",
+    "profession": "sous-officier français du siège de Paris de 1870",
+    "objectID": 97,
+    "birth_day": "1836-07-20",
+    "death_day": "1902-05-29",
+    "_geoloc": {
+      "lat": 48.860889,
+      "lng": 2.39223
+    }
+  },
+  {
+    "name": "Ticky Holgado",
+    "profession": "acteur français",
+    "objectID": 192,
+    "birth_day": "1944-06-24",
+    "death_day": "2004-01-22",
+    "_geoloc": {
+      "lat": 48.861666,
+      "lng": 2.394526
+    }
+  },
+  {
+    "name": "Joseph Léopold Sigisbert Hugo",
+    "profession": "général du Premier Empire et père de Victor Hugo",
+    "objectID": 250,
+    "birth_day": "1773-11-15",
+    "death_day": "1828-01-29",
+    "_geoloc": {
+      "lat": 48.85983,
+      "lng": 2.395406
+    }
+  },
+  {
+    "name": "Ugür Hüküm",
+    "profession": "journaliste",
+    "objectID": 267,
+    "birth_day": "1949-01-01",
+    "death_day": "2013-07-04",
+    "_geoloc": {
+      "lat": 48.859352,
+      "lng": 2.393908
+    }
+  },
+  {
+    "name": "Jean-Auguste-Dominique Ingres",
+    "profession": "peintre français",
+    "objectID": 214,
+    "birth_day": "1780-08-29",
+    "death_day": "1867-01-14",
+    "_geoloc": {
+      "lat": 48.861412,
+      "lng": 2.394333
+    }
+  },
+  {
+    "name": "Adolphe Itasse",
+    "profession": "statuaire français",
+    "objectID": 275,
+    "birth_day": "1829-02-18",
+    "death_day": "1893-03-13",
+    "_geoloc": {
+      "lat": 48.858459,
+      "lng": 2.395362
+    }
+  },
+  {
+    "name": "Jules Joffrin",
+    "profession": "politicien français",
+    "objectID": 125,
+    "birth_day": "1846-03-16",
+    "death_day": "1890-09-17",
+    "_geoloc": {
+      "lat": 48.860226,
+      "lng": 2.39826
+    }
+  },
+  {
+    "name": "Léon Jouhaux",
+    "profession": "syndicaliste français",
+    "objectID": 141,
+    "birth_day": "1879-07-01",
+    "death_day": "1954-04-28",
+    "_geoloc": {
+      "lat": 48.863049,
+      "lng": 2.397015
+    }
+  },
+  {
+    "name": "François Étienne Kellermann",
+    "profession": "général français",
+    "objectID": 234,
+    "birth_day": "1770-08-04",
+    "death_day": "1835-06-02",
+    "_geoloc": {
+      "lat": 48.859774,
+      "lng": 2.394569
+    }
+  },
+  {
+    "name": "Philippe Khorsand",
+    "profession": "acteur français",
+    "objectID": 173,
+    "birth_day": "1948-02-17",
+    "death_day": "2008-01-29",
+    "_geoloc": {
+      "lat": 48.8613527,
+      "lng": 2.3946884
+    }
+  },
+  {
+    "name": "Henri Krasucki",
+    "profession": "dirigeant du Parti communiste français",
+    "objectID": 299,
+    "birth_day": "1924-09-02",
+    "death_day": "2003-01-24",
+    "_geoloc": {
+      "lat": 48.859417,
+      "lng": 2.399038
+    }
+  },
+  {
+    "name": "Jean de La Fontaine",
+    "profession": "poète, fabuliste et écrivain français",
+    "objectID": 244,
+    "birth_day": "1621-07-08",
+    "death_day": "1695-04-13",
+    "_geoloc": {
+      "lat": 48.860565,
+      "lng": 2.395062
+    }
+  },
+  {
+    "name": "Pierre Lachambeaudie",
+    "profession": "fabuliste, poète, goguettier et chansonnier français, adepte des saint-simoniens",
+    "objectID": 313,
+    "birth_day": "1806-12-16",
+    "death_day": "1872-07-07",
+    "_geoloc": {
+      "lat": 48.862812,
+      "lng": 2.392937
+    }
+  },
+  {
+    "name": "Étienne Lamy",
+    "profession": "avocat, journaliste et homme politique français, secrétaire perpétuel de l’Académie française",
+    "objectID": 323,
+    "birth_day": "1845-06-02",
+    "death_day": "1919-01-09",
+    "_geoloc": {
+      "lat": 48.8618534,
+      "lng": 2.3934719
+    }
+  },
+  {
+    "name": "Marie Laurencin",
+    "profession": "peintre figuratif, portraitiste, illustrateur et graveur français",
+    "objectID": 150,
+    "birth_day": "1883-10-31",
+    "death_day": "1956-06-08",
+    "_geoloc": {
+      "lat": 48.862922,
+      "lng": 2.397444
+    }
+  },
+  {
+    "name": "Alphonse Lavallée",
+    "profession": "homme d'affaires nantais fondateur de l'École centrale Paris",
+    "objectID": 10,
+    "birth_day": "1791-01-01",
+    "death_day": "1873-05-15",
+    "_geoloc": {
+      "lat": 48.860649,
+      "lng": 2.39532
+    }
+  },
+  {
+    "name": "Pierre et Hélène Lazareff",
+    "profession": "journaliste française",
+    "objectID": 226,
+    "birth_day": "1909-09-21",
+    "death_day": "1988-02-16",
+    "_geoloc": {
+      "lat": 48.859365,
+      "lng": 2.391479
+    }
+  },
+  {
+    "name": "Charles-François Lebrun",
+    "profession": "politicien français",
+    "objectID": 210,
+    "birth_day": "1739-03-19",
+    "death_day": "1824-06-14",
+    "_geoloc": {
+      "lat": 48.859181,
+      "lng": 2.39356
+    }
+  },
+  {
+    "name": "Alexandre Ledru-Rollin",
+    "profession": "avocat et homme politique français",
+    "objectID": 7,
+    "birth_day": "1807-02-02",
+    "death_day": "1874-12-31",
+    "_geoloc": {
+      "lat": 48.860706,
+      "lng": 2.391565
+    }
+  },
+  {
+    "name": "Édith Lefel",
+    "profession": "chanteuse française",
+    "objectID": 219,
+    "birth_day": "1963-11-17",
+    "death_day": "2003-01-20",
+    "_geoloc": {
+      "lat": 48.862102,
+      "lng": 2.394267
+    }
+  },
+  {
+    "name": "Aubert Lemeland",
+    "profession": "compositeur français",
+    "objectID": 18,
+    "birth_day": "1932-12-19",
+    "death_day": "2010-11-15",
+    "_geoloc": {
+      "lat": 48.861145,
+      "lng": 2.393892
+    }
+  },
+  {
+    "name": "Ferdinand de Lesseps",
+    "profession": "diplomate et entrepreneur français surtout connu pour avoir fait construire le canal de Suez",
+    "objectID": 60,
+    "birth_day": "1805-11-19",
+    "death_day": "1894-12-07",
+    "_geoloc": {
+      "lat": 48.8588033,
+      "lng": 2.3945025
+    }
+  },
+  {
+    "name": "Jean-François Lyotard",
+    "profession": "philosophe français",
+    "objectID": 116,
+    "birth_day": "1924-08-10",
+    "death_day": "1998-04-21",
+    "_geoloc": {
+      "lat": 48.858729,
+      "lng": 2.393517
+    }
+  },
+  {
+    "name": "Étienne-Jacques-Joseph Macdonald",
+    "profession": "général français",
+    "objectID": 325,
+    "birth_day": "1765-11-13",
+    "death_day": "1840-09-25",
+    "_geoloc": {
+      "lat": 48.8586237,
+      "lng": 2.396391
+    }
+  },
+  {
+    "name": "Yves du Manoir",
+    "profession": "aviateur et international français de rugby",
+    "objectID": 269,
+    "birth_day": "1904-08-11",
+    "death_day": "1928-01-02",
+    "_geoloc": {
+      "lat": 48.859718,
+      "lng": 2.394783
+    }
+  },
+  {
+    "name": "Marcel Marceau",
+    "profession": "acteur et mime français",
+    "objectID": 148,
+    "birth_day": "1923-03-22",
+    "death_day": "2007-09-22",
+    "_geoloc": {
+      "lat": 48.860879,
+      "lng": 2.393314
+    }
+  },
+  {
+    "name": "Georges Marchais",
+    "profession": "politicien français",
+    "objectID": 81,
+    "birth_day": "1920-06-07",
+    "death_day": "1997-11-16",
+    "_geoloc": {
+      "lat": 48.859746,
+      "lng": 2.399676
+    }
+  },
+  {
+    "name": "Pierre Marinovitch",
+    "profession": "as de l'aviation français de la Première Guerre mondiale",
+    "objectID": 314,
+    "birth_day": "1898-08-01",
+    "death_day": "1919-09-02",
+    "_geoloc": {
+      "lat": 48.861469,
+      "lng": 2.39702
+    }
+  },
+  {
+    "name": "André Masséna",
+    "profession": "général français",
+    "objectID": 13,
+    "birth_day": "1758-05-06",
+    "death_day": "1817-04-04",
+    "_geoloc": {
+      "lat": 48.859012,
+      "lng": 2.396586
+    }
+  },
+  {
+    "name": "Maurice Merleau-Ponty",
+    "profession": "philosophe français",
+    "objectID": 154,
+    "birth_day": "1908-03-14",
+    "death_day": "1961-05-03",
+    "_geoloc": {
+      "lat": 48.862287,
+      "lng": 2.393196
+    }
+  },
+  {
+    "name": "Jules Michelet",
+    "profession": "historien français",
+    "objectID": 126,
+    "birth_day": "1798-08-21",
+    "death_day": "1874-02-09",
+    "_geoloc": {
+      "lat": 48.862569,
+      "lng": 2.393045
+    }
+  },
+  {
+    "name": "Caroline Miolan-Carvalho",
+    "profession": "cantatrice française",
+    "objectID": 283,
+    "birth_day": "1827-12-31",
+    "death_day": "1895-07-10",
+    "_geoloc": {
+      "lat": 48.8629618,
+      "lng": 2.3902204
+    }
+  },
+  {
+    "name": "Amedeo Modigliani",
+    "profession": "peintre et sculpteur italien",
+    "objectID": 208,
+    "birth_day": "1884-07-12",
+    "death_day": "1920-01-24",
+    "_geoloc": {
+      "lat": 48.8598029,
+      "lng": 2.3985154
+    }
+  },
+  {
+    "name": "Molière",
+    "profession": "dramaturge et comédien français",
+    "objectID": 162,
+    "birth_day": "1622-01-15",
+    "death_day": "1673-02-17",
+    "_geoloc": {
+      "lat": 48.860536,
+      "lng": 2.395105
+    }
+  },
+  {
+    "name": "Silvia Monfort",
+    "profession": "comédienne et directrice de théâtre française",
+    "objectID": 264,
+    "birth_day": "1923-06-07",
+    "death_day": "1991-03-30",
+    "_geoloc": {
+      "lat": 48.861242,
+      "lng": 2.39841
+    }
+  },
+  {
+    "name": "Gaspard Monge",
+    "profession": "mathématicien français",
+    "objectID": 73,
+    "birth_day": "1746-05-09",
+    "death_day": "1818-07-28",
+    "_geoloc": {
+      "lat": 48.860212,
+      "lng": 2.393603
+    }
+  },
+  {
+    "name": "Jim Morrison",
+    "profession": "chanteur des Doors",
+    "objectID": 120,
+    "birth_day": "1943-12-08",
+    "death_day": "1971-07-03",
+    "_geoloc": {
+      "lat": 48.8592676,
+      "lng": 2.393752
+    }
+  },
+  {
+    "name": "René Mouchotte",
+    "profession": "aviateur français de la Seconde Guerre mondiale et figure de la France libre",
+    "objectID": 183,
+    "birth_day": "1914-08-21",
+    "death_day": "1943-08-27",
+    "_geoloc": {
+      "lat": 48.8631279,
+      "lng": 2.3912635
+    }
+  },
+  {
+    "name": "Marcel Mouloudji",
+    "profession": "chanteur, auteur-compositeur-interprète, peintre et acteur français",
+    "objectID": 255,
+    "birth_day": "1922-09-16",
+    "death_day": "1994-06-14",
+    "_geoloc": {
+      "lat": 48.861157,
+      "lng": 2.395277
+    }
+  },
+  {
+    "name": "Joachim Murat",
+    "profession": "général français",
+    "objectID": 121,
+    "birth_day": "1767-03-25",
+    "death_day": "1815-10-13",
+    "_geoloc": {
+      "lat": 48.859068,
+      "lng": 2.396672
+    }
+  },
+  {
+    "name": "Alfred de Musset",
+    "profession": "écrivain romantique français",
+    "objectID": 8,
+    "birth_day": "1810-12-11",
+    "death_day": "1857-05-02",
+    "_geoloc": {
+      "lat": 48.86072,
+      "lng": 2.391114
+    }
+  },
+  {
+    "name": "Georges Méliès",
+    "profession": "réalisateur de films français",
+    "objectID": 236,
+    "birth_day": "1861-12-08",
+    "death_day": "1938-01-21",
+    "_geoloc": {
+      "lat": 48.863331,
+      "lng": 2.390664
+    }
+  },
+  {
+    "name": "Nadar",
+    "profession": "photographe français",
+    "objectID": 258,
+    "birth_day": "1820-04-06",
+    "death_day": "1910-03-21",
+    "_geoloc": {
+      "lat": 48.858983,
+      "lng": 2.397037
+    }
+  },
+  {
+    "name": "Gérard de Nerval",
+    "profession": "écrivain français",
+    "objectID": 238,
+    "birth_day": "1808-05-22",
+    "death_day": "1855-01-26",
+    "_geoloc": {
+      "lat": 48.862739,
+      "lng": 2.393174
+    }
+  },
+  {
+    "name": "Michel Ney",
+    "profession": "général français",
+    "objectID": 159,
+    "birth_day": "1769-01-10",
+    "death_day": "1815-12-07",
+    "_geoloc": {
+      "lat": 48.858772,
+      "lng": 2.396071
+    }
+  },
+  {
+    "name": "Anna de Noailles",
+    "profession": "poétesse et romancière française d'origine roumaine",
+    "objectID": 209,
+    "birth_day": "1876-11-15",
+    "death_day": "1933-04-30",
+    "_geoloc": {
+      "lat": 48.85904,
+      "lng": 2.395706
+    }
+  },
+  {
+    "name": "Jean Nohain",
+    "profession": "animateur et parolier français",
+    "objectID": 112,
+    "birth_day": "1900-02-16",
+    "death_day": "1981-01-25",
+    "_geoloc": {
+      "lat": 48.862089,
+      "lng": 2.39738
+    }
+  },
+  {
+    "name": "Victor Noir",
+    "profession": "journaliste français",
+    "objectID": 197,
+    "birth_day": "1848-07-27",
+    "death_day": "1870-01-10",
+    "_geoloc": {
+      "lat": 48.860819,
+      "lng": 2.396543
+    }
+  },
+  {
+    "name": "Tony Noël",
+    "profession": "sculpteur français",
+    "objectID": 317,
+    "birth_day": "1845-07-24",
+    "death_day": "1909-10-03",
+    "_geoloc": {
+      "lat": 48.859592,
+      "lng": 2.397383
+    }
+  },
+  {
+    "name": "Christophe-Philippe Oberkampf",
+    "profession": "industriel allemand naturalisé français",
+    "objectID": 32,
+    "birth_day": "1738-06-11",
+    "death_day": "1815-10-06",
+    "_geoloc": {
+      "lat": 48.859689,
+      "lng": 2.396071
+    }
+  },
+  {
+    "name": "Max Ophüls",
+    "profession": "cinéaste français",
+    "objectID": 157,
+    "birth_day": "1902-05-06",
+    "death_day": "1957-03-25",
+    "_geoloc": {
+      "lat": 48.862569,
+      "lng": 2.395363
+    }
+  },
+  {
+    "name": "Malik Oussekine",
+    "profession": "étudiant franco-algérien",
+    "objectID": 144,
+    "birth_day": "1964-10-18",
+    "death_day": "1986-12-06",
+    "_geoloc": {
+      "lat": 48.858038,
+      "lng": 2.395556
+    }
+  },
+  {
+    "name": "Andranik Ozanian",
+    "profession": "militaire et héros national arménien",
+    "objectID": 227,
+    "birth_day": "1865-02-25",
+    "death_day": "1927-08-31",
+    "_geoloc": {
+      "lat": 48.86048,
+      "lng": 2.399418
+    }
+  },
+  {
+    "name": "René Panhard",
+    "profession": "ingénieur en mécanique, cofondateur de l'industrie automobile Panhard",
+    "objectID": 262,
+    "birth_day": "1841-05-27",
+    "death_day": "1908-07-16",
+    "_geoloc": {
+      "lat": 48.858475,
+      "lng": 2.395771
+    }
+  },
+  {
+    "name": "Antoine Parmentier",
+    "profession": "pharmacien militaire, agronome, nutritionniste et hygiéniste français",
+    "objectID": 17,
+    "birth_day": "1737-08-12",
+    "death_day": "1813-12-17",
+    "_geoloc": {
+      "lat": 48.860141,
+      "lng": 2.395492
+    }
+  },
+  {
+    "name": "Casimir Perier",
+    "profession": "banquier et homme politique français",
+    "objectID": 28,
+    "birth_day": "1777-10-11",
+    "death_day": "1832-05-16",
+    "_geoloc": {
+      "lat": 48.8600225,
+      "lng": 2.3936303
+    }
+  },
+  {
+    "name": "Claude-Victor Perrin",
+    "profession": "général français",
+    "objectID": 288,
+    "birth_day": "1764-12-07",
+    "death_day": "1841-03-01",
+    "_geoloc": {
+      "lat": 48.859627,
+      "lng": 2.394392
+    }
+  },
+  {
+    "name": "Michel Petrucciani",
+    "profession": "pianiste et compositeur de jazz français",
+    "objectID": 160,
+    "birth_day": "1962-12-28",
+    "death_day": "1999-01-06",
+    "_geoloc": {
+      "lat": 48.860056,
+      "lng": 2.392874
+    }
+  },
+  {
+    "name": "Édith Piaf",
+    "profession": "chanteuse française",
+    "objectID": 220,
+    "birth_day": "1915-12-19",
+    "death_day": "1963-10-10",
+    "_geoloc": {
+      "lat": 48.8596833,
+      "lng": 2.3988939
+    }
+  },
+  {
+    "name": "Christian Pineau",
+    "profession": "politicien français",
+    "objectID": 31,
+    "birth_day": "1904-10-14",
+    "death_day": "1995-04-05",
+    "_geoloc": {
+      "lat": 48.859576,
+      "lng": 2.398882
+    }
+  },
+  {
+    "name": "Camille Pissarro",
+    "profession": "peintre français",
+    "objectID": 27,
+    "birth_day": "1830-07-10",
+    "death_day": "1903-11-13",
+    "_geoloc": {
+      "lat": 48.8591071,
+      "lng": 2.3914902
+    }
+  },
+  {
+    "name": "Roger Planchon",
+    "profession": "directeur de théâtre, metteur en scène, dramaturge, cinéaste et acteur français",
+    "objectID": 185,
+    "birth_day": "1931-09-12",
+    "death_day": "2009-05-12",
+    "_geoloc": {
+      "lat": 48.86076,
+      "lng": 2.3938
+    }
+  },
+  {
+    "name": "Jacques Plante",
+    "profession": "parolier français",
+    "objectID": 105,
+    "birth_day": "1920-01-01",
+    "death_day": "2003-07-16",
+    "_geoloc": {
+      "lat": 48.861807,
+      "lng": 2.395191
+    }
+  },
+  {
+    "name": "Ignace Joseph Pleyel",
+    "profession": "compositeur, éditeur de musique et fabricant de pianos d'origine autrichienne naturalisé français",
+    "objectID": 239,
+    "birth_day": "1757-06-18",
+    "death_day": "1831-11-14",
+    "_geoloc": {
+      "lat": 48.860508,
+      "lng": 2.393131
+    }
+  },
+  {
+    "name": "Nicolas Ponce",
+    "profession": "dessinateur, graveur de vignettes et d'estampes et écrivain français",
+    "objectID": 311,
+    "birth_day": "1746-03-12",
+    "death_day": "1831-03-27",
+    "_geoloc": {
+      "lat": 48.859257,
+      "lng": 2.3974
+    }
+  },
+  {
+    "name": "Elvire Popesco",
+    "profession": "comédienne française",
+    "objectID": 49,
+    "birth_day": "1894-05-10",
+    "death_day": "1993-12-11",
+    "_geoloc": {
+      "lat": 48.86319,
+      "lng": 2.395985
+    }
+  },
+  {
+    "name": "Francis Poulenc",
+    "profession": "compositeur et pianiste français",
+    "objectID": 62,
+    "birth_day": "1899-01-07",
+    "death_day": "1963-01-30",
+    "_geoloc": {
+      "lat": 48.858758,
+      "lng": 2.393088
+    }
+  },
+  {
+    "name": "Charles André Pozzo di Borgo",
+    "profession": "homme politique corse, devenu diplomate au service de la Russie",
+    "objectID": 284,
+    "birth_day": "1764-03-08",
+    "death_day": "1842-02-15",
+    "_geoloc": {
+      "lat": 48.861664,
+      "lng": 2.391277
+    }
+  },
+  {
+    "name": "James Pradier",
+    "profession": "sculpteur et un peintre français d'origine suisse",
+    "objectID": 241,
+    "birth_day": "1790-05-23",
+    "death_day": "1852-06-04",
+    "_geoloc": {
+      "lat": 48.86079,
+      "lng": 2.394204
+    }
+  },
+  {
+    "name": "Marcel Proust",
+    "profession": "écrivain, critique et essayiste français",
+    "objectID": 149,
+    "birth_day": "1871-07-10",
+    "death_day": "1922-11-18",
+    "_geoloc": {
+      "lat": 48.8630712,
+      "lng": 2.394975
+    }
+  },
+  {
+    "name": "Mademoiselle Rachel",
+    "profession": "actrice française",
+    "objectID": 261,
+    "birth_day": "1821-02-21",
+    "death_day": "1858-01-03",
+    "_geoloc": {
+      "lat": 48.859562,
+      "lng": 2.391114
+    }
+  },
+  {
+    "name": "Olivier Raoux",
+    "profession": "décorateur de cinéma français",
+    "objectID": 165,
+    "birth_day": "1961-04-10",
+    "death_day": "2011-03-22",
+    "_geoloc": {
+      "lat": 48.863605,
+      "lng": 2.396443
+    }
+  },
+  {
+    "name": "François-Vincent Raspail",
+    "profession": "chimiste, médecin et homme politique français",
+    "objectID": 233,
+    "birth_day": "1794-01-29",
+    "death_day": "1878-01-07",
+    "_geoloc": {
+      "lat": 48.860141,
+      "lng": 2.393904
+    }
+  },
+  {
+    "name": "Willy Rizzo",
+    "profession": "photographe et designer italo-français",
+    "objectID": 201,
+    "birth_day": "1928-10-22",
+    "death_day": "2013-02-25",
+    "_geoloc": {
+      "lat": 48.861065,
+      "lng": 2.393418
+    }
+  },
+  {
+    "name": "Étienne Robertson",
+    "profession": "peintre, dessinateur, physicien-aéronaute, mécanicien, opticien, fantasmagorien et mémorialiste",
+    "objectID": 271,
+    "birth_day": "1764-06-15",
+    "death_day": "1837-07-02",
+    "_geoloc": {
+      "lat": 48.859435,
+      "lng": 2.392359
+    }
+  },
+  {
+    "name": "Jacob Roblès",
+    "profession": "négociant (\"Le Silence\" d'Auguste Préault)",
+    "objectID": 274,
+    "birth_day": "1782-04-15",
+    "death_day": "1842-03-10",
+    "_geoloc": {
+      "lat": 48.859322,
+      "lng": 2.391479
+    }
+  },
+  {
+    "name": "Jules Romains",
+    "profession": "écrivain français",
+    "objectID": 127,
+    "birth_day": "1885-08-26",
+    "death_day": "1972-08-14",
+    "_geoloc": {
+      "lat": 48.860113,
+      "lng": 2.390428
+    }
+  },
+  {
+    "name": "Gioachino Rossini",
+    "profession": "compositeur italien",
+    "objectID": 237,
+    "birth_day": "1792-02-29",
+    "death_day": "1868-11-13",
+    "_geoloc": {
+      "lat": 48.860706,
+      "lng": 2.39105
+    }
+  },
+  {
+    "name": "James de Rothschild",
+    "profession": "banquier français, fondateur de la branche de Paris de la famille Rothschild",
+    "objectID": 242,
+    "birth_day": "1792-05-15",
+    "death_day": "1868-11-15",
+    "_geoloc": {
+      "lat": 48.859351,
+      "lng": 2.391286
+    }
+  },
+  {
+    "name": "Claude Henri de Rouvroy, comte de Saint Simon",
+    "profession": "philosophe français",
+    "objectID": 211,
+    "birth_day": "1760-10-17",
+    "death_day": "1825-05-19",
+    "_geoloc": {
+      "lat": 48.859689,
+      "lng": 2.395642
+    }
+  },
+  {
+    "name": "Charles-Étienne-François Ruty",
+    "profession": "lieutenant-général d’artillerie, Conseiller d'État et pair de France",
+    "objectID": 228,
+    "birth_day": "1774-11-04",
+    "death_day": "1828-04-24",
+    "_geoloc": {
+      "lat": 48.858983,
+      "lng": 2.396672
+    }
+  },
+  {
+    "name": "Henri Salvador",
+    "profession": "chanteur, humoriste compositeur et guitariste français",
+    "objectID": 93,
+    "birth_day": "1917-07-18",
+    "death_day": "2008-02-13",
+    "_geoloc": {
+      "lat": 48.859633,
+      "lng": 2.398839
+    }
+  },
+  {
+    "name": "Madame Sans-Gêne",
+    "profession": "épouse de François Joseph Lefebvre",
+    "objectID": 142,
+    "birth_day": "1753-02-02",
+    "death_day": "1835-12-29",
+    "_geoloc": {
+      "lat": 48.85904,
+      "lng": 2.396586
+    }
+  },
+  {
+    "name": "Horace Émile Say",
+    "profession": "économiste français",
+    "objectID": 300,
+    "birth_day": "1794-03-11",
+    "death_day": "1860-07-25",
+    "_geoloc": {
+      "lat": 48.858578,
+      "lng": 2.396377
+    }
+  },
+  {
+    "name": "Victor Schœlcher",
+    "profession": "homme politique français",
+    "objectID": 268,
+    "birth_day": "1804-07-22",
+    "death_day": "1893-12-25",
+    "_geoloc": {
+      "lat": 48.861412,
+      "lng": 2.393947
+    }
+  },
+  {
+    "name": "Eugène Scribe",
+    "profession": "dramaturge et librettiste français",
+    "objectID": 55,
+    "birth_day": "1791-12-24",
+    "death_day": "1861-02-20",
+    "_geoloc": {
+      "lat": 48.859365,
+      "lng": 2.397187
+    }
+  },
+  {
+    "name": "Georges Seurat",
+    "profession": "peintre français",
+    "objectID": 83,
+    "birth_day": "1859-12-02",
+    "death_day": "1891-03-29",
+    "_geoloc": {
+      "lat": 48.8623521,
+      "lng": 2.390531
+    }
+  },
+  {
+    "name": "Emmanuel-Joseph Sieyès",
+    "profession": "homme politique, Révolution française et Directoire",
+    "objectID": 50,
+    "birth_day": "1748-05-03",
+    "death_day": "1836-06-20",
+    "_geoloc": {
+      "lat": 48.858532,
+      "lng": 2.395599
+    }
+  },
+  {
+    "name": "David Sintzheim",
+    "profession": "grand rabbin de France",
+    "objectID": 42,
+    "birth_day": "1745-01-01",
+    "death_day": "1812-02-11",
+    "_geoloc": {
+      "lat": 48.85904,
+      "lng": 2.391737
+    }
+  },
+  {
+    "name": "Mano Solo",
+    "profession": "chanteur, dessinateur, peintre et poète français",
+    "objectID": 145,
+    "birth_day": "1963-04-24",
+    "death_day": "2010-01-10",
+    "_geoloc": {
+      "lat": 48.860452,
+      "lng": 2.392552
+    }
+  },
+  {
+    "name": "Frédéric Soulié",
+    "profession": "écrivain français",
+    "objectID": 295,
+    "birth_day": "1800-12-23",
+    "death_day": "1847-09-23",
+    "_geoloc": {
+      "lat": 48.8628596,
+      "lng": 2.392869
+    }
+  },
+  {
+    "name": "Émile Souvestre",
+    "profession": "écrivain français",
+    "objectID": 322,
+    "birth_day": "1806-04-15",
+    "death_day": "1854-07-05",
+    "_geoloc": {
+      "lat": 48.862836,
+      "lng": 2.393178
+    }
+  },
+  {
+    "name": "Gertrude Stein",
+    "profession": "poétesse, écrivain, dramaturge et féministe américaine",
+    "objectID": 84,
+    "birth_day": "1874-02-03",
+    "death_day": "1946-07-27",
+    "_geoloc": {
+      "lat": 48.86079,
+      "lng": 2.399375
+    }
+  },
+  {
+    "name": "Élisabeth Alexandrovna Stroganoff",
+    "profession": "aristocrate russe",
+    "objectID": 223,
+    "birth_day": "1779-02-05",
+    "death_day": "1818-04-08",
+    "_geoloc": {
+      "lat": 48.859576,
+      "lng": 2.394977
+    }
+  },
+  {
+    "name": "Louis-Gabriel Suchet",
+    "profession": "général français",
+    "objectID": 253,
+    "birth_day": "1770-03-02",
+    "death_day": "1826-01-03",
+    "_geoloc": {
+      "lat": 48.859351,
+      "lng": 2.396929
+    }
+  },
+  {
+    "name": "Raymond de Sèze",
+    "profession": "magistrat et homme politique français",
+    "objectID": 315,
+    "birth_day": "1748-09-26",
+    "death_day": "1828-05-02",
+    "_geoloc": {
+      "lat": 48.8614688,
+      "lng": 2.3925529
+    }
+  },
+  {
+    "name": "Adolphe Thiers",
+    "profession": "avocat, journaliste, historien et homme d’État français",
+    "objectID": 2,
+    "birth_day": "1797-04-15",
+    "death_day": "1877-09-03",
+    "_geoloc": {
+      "lat": 48.861087,
+      "lng": 2.392895
+    }
+  },
+  {
+    "name": "Maurice Thorez",
+    "profession": "politicien français",
+    "objectID": 155,
+    "birth_day": "1900-04-28",
+    "death_day": "1964-07-11",
+    "_geoloc": {
+      "lat": 48.859943,
+      "lng": 2.39989
+    }
+  },
+  {
+    "name": "Gaston Tissandier",
+    "profession": "scientifique et aérostier français",
+    "objectID": 74,
+    "birth_day": "1843-11-21",
+    "death_day": "1899-08-30",
+    "_geoloc": {
+      "lat": 48.859703,
+      "lng": 2.395298
+    }
+  },
+  {
+    "name": "Jean Topart",
+    "profession": "acteur français",
+    "objectID": 302,
+    "birth_day": "1922-04-13",
+    "death_day": "2012-12-29",
+    "_geoloc": {
+      "lat": 48.8615364,
+      "lng": 2.3918726
+    }
+  },
+  {
+    "name": "Daniel Toscan du Plantier",
+    "profession": "producteur français de cinéma",
+    "objectID": 41,
+    "birth_day": "1941-04-07",
+    "death_day": "2003-02-11",
+    "_geoloc": {
+      "lat": 48.861214,
+      "lng": 2.394891
+    }
+  },
+  {
+    "name": "Anne-François-Charles Trelliard",
+    "profession": "général français de la Révolution et du Premier Empire",
+    "objectID": 277,
+    "birth_day": "1764-02-07",
+    "death_day": "1832-05-14",
+    "_geoloc": {
+      "lat": 48.8584651,
+      "lng": 2.3953018
+    }
+  },
+  {
+    "name": "Marie Trintignant",
+    "profession": "actrice française",
+    "objectID": 151,
+    "birth_day": "1962-01-21",
+    "death_day": "2003-08-01",
+    "_geoloc": {
+      "lat": 48.861186,
+      "lng": 2.394912
+    }
+  },
+  {
+    "name": "Henry de Triqueti",
+    "profession": "sculpteur français",
+    "objectID": 94,
+    "birth_day": "1803-10-24",
+    "death_day": "1874-05-11",
+    "_geoloc": {
+      "lat": 48.861129,
+      "lng": 2.39532
+    }
+  },
+  {
+    "name": "Paul Vaillant-Couturier",
+    "profession": "personnalité politique française",
+    "objectID": 172,
+    "birth_day": "1892-01-08",
+    "death_day": "1937-10-10",
+    "_geoloc": {
+      "lat": 48.860141,
+      "lng": 2.399869
+    }
+  },
+  {
+    "name": "Jules Vallès",
+    "profession": "écrivain français",
+    "objectID": 128,
+    "birth_day": "1832-06-11",
+    "death_day": "1885-02-14",
+    "_geoloc": {
+      "lat": 48.862287,
+      "lng": 2.390342
+    }
+  },
+  {
+    "name": "Jack Vanarsky",
+    "profession": "sculpteur et auteur de collages",
+    "objectID": 100,
+    "birth_day": "1936-01-01",
+    "death_day": "2009-02-15",
+    "_geoloc": {
+      "lat": 48.860107,
+      "lng": 2.393003
+    }
+  },
+  {
+    "name": "Vania Vilers",
+    "profession": "acteur français",
+    "objectID": 196,
+    "birth_day": "1938-06-12",
+    "death_day": "2009-02-22",
+    "_geoloc": {
+      "lat": 48.85994,
+      "lng": 2.39293
+    }
+  },
+  {
+    "name": "Louis Verneuil",
+    "profession": "auteur dramatique, scénariste et acteur français",
+    "objectID": 135,
+    "birth_day": "1893-05-14",
+    "death_day": "1952-11-03",
+    "_geoloc": {
+      "lat": 48.86367,
+      "lng": 2.396157
+    }
+  },
+  {
+    "name": "Louis Visconti",
+    "profession": "architecte français",
+    "objectID": 136,
+    "birth_day": "1791-02-11",
+    "death_day": "1853-12-29",
+    "_geoloc": {
+      "lat": 48.860649,
+      "lng": 2.390878
+    }
+  },
+  {
+    "name": "Dominique Vivant Denon",
+    "profession": "graveur, écrivain, diplomate et administrateur français",
+    "objectID": 229,
+    "birth_day": "1747-01-04",
+    "death_day": "1825-04-27",
+    "_geoloc": {
+      "lat": 48.8601567,
+      "lng": 2.3927356
+    }
+  },
+  {
+    "name": "Richard Wallace",
+    "profession": "collectionneur et philanthrope britannique",
+    "objectID": 184,
+    "birth_day": "1818-07-26",
+    "death_day": "1890-07-20",
+    "_geoloc": {
+      "lat": 48.859167,
+      "lng": 2.3962
+    }
+  },
+  {
+    "name": "Oscar Wilde",
+    "profession": "poète irlandais",
+    "objectID": 166,
+    "birth_day": "1854-10-16",
+    "death_day": "1900-11-30",
+    "_geoloc": {
+      "lat": 48.8618038,
+      "lng": 2.3979473
+    }
+  },
+  {
+    "name": "Yves Montand et Simone Signoret",
+    "profession": "actrice française",
+    "objectID": 206,
+    "birth_day": "1921-03-25",
+    "death_day": "1985-09-30",
+    "_geoloc": {
+      "lat": 48.861892,
+      "lng": 2.395535
+    }
+  },
+  {
+    "name": "Achille Zavatta",
+    "profession": "homme de cirque français d'origine tunisienne",
+    "objectID": 1,
+    "birth_day": "1915-05-06",
+    "death_day": "1993-11-16",
+    "_geoloc": {
+      "lat": 48.862146,
+      "lng": 2.396071
+    }
+  },
+  {
+    "name": "Paul Éluard",
+    "profession": "poète français",
+    "objectID": 259,
+    "birth_day": "1895-12-14",
+    "death_day": "1952-11-18",
+    "_geoloc": {
+      "lat": 48.859986,
+      "lng": 2.399912
+    }
+  }
+]

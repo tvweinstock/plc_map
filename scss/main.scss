@@ -1,0 +1,32 @@
+$bodybg: #bdcdd3;
+$txtWhite: whitesmoke;
+* {
+  box-sizing: border-box;
+}
+body {
+  background: $bodybg;
+  color: $txtWhite;
+  margin: 0;
+  font-size: 16px;
+  font-family: 'Andale Mono';
+}
+
+.search-wrapper {
+  margin: 20px;
+}
+#plc-map {
+  height: 600px;
+  width: 90%;
+  margin: 20px auto;
+}
+
+#search-input {
+  padding: 5px 10px;
+  text-transform: uppercase;
+  width: 100%;
+}
+
+#hits {
+  max-height: 573px;
+  overflow: auto;
+}
