@@ -1,7 +1,7 @@
 import algoliasearch from 'algoliasearch';
 import algoliasearchHelper from 'algoliasearch-helper';
 import hogan from 'hogan.js';
-require('./scss/main.scss')
+// require('./scss/main.scss')
 
 // INITIALIZATION
 const APPLICATION_ID = '7Y37FN61ON';

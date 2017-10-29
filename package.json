@@ -21,6 +21,7 @@
     "webpack-dev-server": "^2.9.2"
   },
   "dependencies": {
-    "algoliasearch": "^3.24.5"
+    "algoliasearch": "^3.24.5",
+    "algoliasearch-helper": "^2.23.0"
   }
 }
