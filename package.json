@@ -13,7 +13,6 @@
     "babel-loader": "^7.1.2",
     "babel-preset-es2015-native-modules": "^6.9.4",
     "css-loader": "^0.28.7",
-    "extract-text-webpack-plugin": "^3.0.1",
     "node-sass": "^4.5.3",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.19.0",
@@ -22,6 +21,7 @@
   },
   "dependencies": {
     "algoliasearch": "^3.24.5",
-    "algoliasearch-helper": "^2.23.0"
+    "algoliasearch-helper": "^2.23.0",
+    "hogan.js": "^3.0.2"
   }
 }
